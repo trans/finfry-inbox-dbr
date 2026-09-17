@@ -1,0 +1,21 @@
+{
+  "merchant": "Northstar Market",
+  "date": "2026-09-14",
+  "currency": "USD",
+  "subtotal": "39.54",
+  "tax": "3.16",
+  "total": "42.70",
+  "payment_method": "DEBIT",
+  "book_id": "demo-personal",
+  "account_policy": "strict",
+  "line_items": [
+    {"description": "ORGANIC OATS", "quantity": "1", "unit_price": "6.49", "line_total": "6.49"},
+    {"description": "HONEYCRISP APPLES", "quantity": "1", "unit_price": "8.76", "line_total": "8.76"},
+    {"description": "SOURDOUGH LOAF", "quantity": "1", "unit_price": "5.99", "line_total": "5.99"},
+    {"description": "CHEDDAR CHEESE", "quantity": "1", "unit_price": "7.85", "line_total": "7.85"},
+    {"description": "COFFEE BEANS", "quantity": "1", "unit_price": "10.45", "line_total": "10.45"}
+  ],
+  "payment_account": "Assets:Checking",
+  "expected_expense_account": "Expenses:Food",
+  "expected_account_action": "reuse"
+}

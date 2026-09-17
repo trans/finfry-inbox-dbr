@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="1100" viewBox="0 0 700 1100">
+  <rect width="700" height="1100" fill="#f4f1e8"/>
+  <rect x="65" y="35" width="570" height="1030" rx="3" fill="#fffef8" stroke="#d3cec0" stroke-width="2"/>
+  <g fill="#242424" font-family="DejaVu Sans Mono, monospace">
+    <text x="350" y="105" text-anchor="middle" font-size="34" font-weight="bold">NORTHSTAR MARKET</text>
+    <text x="350" y="143" text-anchor="middle" font-size="18">17 Aurora Avenue</text>
+    <text x="350" y="171" text-anchor="middle" font-size="18">Port Meridian, NY 10018</text>
+    <text x="350" y="210" text-anchor="middle" font-size="18">2026-09-14  18:42</text>
+    <text x="95" y="266" font-size="18">----------------------------------------------</text>
+    <text x="95" y="315" font-size="20">ORGANIC OATS</text><text x="575" y="315" text-anchor="end" font-size="20">6.49</text>
+    <text x="95" y="358" font-size="20">HONEYCRISP APPLES</text><text x="575" y="358" text-anchor="end" font-size="20">8.76</text>
+    <text x="95" y="401" font-size="20">SOURDOUGH LOAF</text><text x="575" y="401" text-anchor="end" font-size="20">5.99</text>
+    <text x="95" y="444" font-size="20">CHEDDAR CHEESE</text><text x="575" y="444" text-anchor="end" font-size="20">7.85</text>
+    <text x="95" y="487" font-size="20">COFFEE BEANS</text><text x="575" y="487" text-anchor="end" font-size="20">10.45</text>
+    <text x="95" y="538" font-size="18">----------------------------------------------</text>
+    <text x="315" y="595" font-size="22">SUBTOTAL</text><text x="575" y="595" text-anchor="end" font-size="22">39.54</text>
+    <text x="315" y="638" font-size="22">TAX</text><text x="575" y="638" text-anchor="end" font-size="22">3.16</text>
+    <text x="315" y="695" font-size="28" font-weight="bold">TOTAL</text><text x="575" y="695" text-anchor="end" font-size="28" font-weight="bold">$42.70</text>
+    <text x="95" y="750" font-size="18">----------------------------------------------</text>
+    <text x="95" y="799" font-size="20">PAYMENT: DEBIT</text>
+    <text x="95" y="842" font-size="20">AUTH: 482193</text>
+    <text x="350" y="920" text-anchor="middle" font-size="20">Thank you for shopping local!</text>
+    <text x="350" y="965" text-anchor="middle" font-size="16">Synthetic fixture - no real transaction</text>
+  </g>
+</svg>

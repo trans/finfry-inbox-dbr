@@ -1,0 +1,27 @@
+bundle:
+  name: finfry_inbox
+  uuid: d77dfaa1-d2eb-4765-b15b-23caed31adf1
+
+include:
+  - resources/*.yml
+
+artifacts:
+  python_artifact:
+    type: whl
+    build: uv build --wheel
+
+variables:
+  catalog:
+    description: The catalog to use
+    default: workspace
+  schema:
+    description: The schema to use
+    default: finfry_inbox
+  raw_receipts_path:
+    description: Unity Catalog volume path containing incoming receipt files
+    default: /Volumes/workspace/finfry_inbox/raw_receipts
+
+targets:
+  dev:
+    mode: development
+    default: true

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="1100" viewBox="0 0 700 1100">
+  <rect width="700" height="1100" fill="#eef3f8"/>
+  <rect x="65" y="35" width="570" height="1030" rx="3" fill="#ffffff" stroke="#c7d2df" stroke-width="2"/>
+  <g fill="#1f2933" font-family="DejaVu Sans Mono, monospace">
+    <text x="350" y="105" text-anchor="middle" font-size="32" font-weight="bold">BRIGHTLINE DEV TOOLS</text>
+    <text x="350" y="143" text-anchor="middle" font-size="18">240 Compiler Way</text>
+    <text x="350" y="171" text-anchor="middle" font-size="18">Port Meridian, NY 10018</text>
+    <text x="350" y="210" text-anchor="middle" font-size="18">2026-09-15  09:17</text>
+    <text x="95" y="266" font-size="18">----------------------------------------------</text>
+    <text x="95" y="325" font-size="19">PRO EDITOR ANNUAL LICENSE</text>
+    <text x="575" y="325" text-anchor="end" font-size="20">119.00</text>
+    <text x="95" y="380" font-size="18">----------------------------------------------</text>
+    <text x="315" y="445" font-size="22">SUBTOTAL</text><text x="575" y="445" text-anchor="end" font-size="22">119.00</text>
+    <text x="315" y="492" font-size="22">TAX</text><text x="575" y="492" text-anchor="end" font-size="22">9.52</text>
+    <text x="315" y="555" font-size="28" font-weight="bold">TOTAL</text><text x="575" y="555" text-anchor="end" font-size="28" font-weight="bold">$128.52</text>
+    <text x="95" y="620" font-size="18">----------------------------------------------</text>
+    <text x="95" y="680" font-size="20">PAYMENT: DEBIT</text>
+    <text x="95" y="725" font-size="20">LICENSE: BDT-PRO-ANNUAL</text>
+    <text x="350" y="850" text-anchor="middle" font-size="20">Build something bright.</text>
+    <text x="350" y="925" text-anchor="middle" font-size="16">Synthetic fixture - no real transaction</text>
+  </g>
+</svg>

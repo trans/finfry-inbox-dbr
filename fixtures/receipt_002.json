@@ -1,0 +1,22 @@
+{
+  "merchant": "Brightline Dev Tools",
+  "date": "2026-09-15",
+  "currency": "USD",
+  "subtotal": "119.00",
+  "tax": "9.52",
+  "total": "128.52",
+  "payment_method": "DEBIT",
+  "book_id": "demo-minimal",
+  "account_policy": "guard",
+  "line_items": [
+    {
+      "description": "PRO EDITOR ANNUAL LICENSE",
+      "quantity": "1",
+      "unit_price": "119.00",
+      "line_total": "119.00"
+    }
+  ],
+  "payment_account": "Assets:Checking",
+  "expected_expense_account": "Expenses:Software",
+  "expected_account_action": "create"
+}

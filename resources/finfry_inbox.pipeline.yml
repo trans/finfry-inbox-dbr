@@ -1,0 +1,16 @@
+resources:
+  pipelines:
+    finfry_inbox_etl:
+      name: finfry_inbox_etl
+      catalog: ${var.catalog}
+      schema: ${var.schema}
+      serverless: true
+      root_path: ../src/finfry_inbox_etl
+      configuration:
+        finfry_inbox.raw_receipts_path: ${var.raw_receipts_path}
+        finfry_inbox.book_settings_table: ${var.catalog}.${var.schema}.book_settings
+        finfry_inbox.book_accounts_table: ${var.catalog}.${var.schema}.book_accounts
+        finfry_inbox.receipt_assignments_table: ${var.catalog}.${var.schema}.receipt_assignments
+      libraries:
+        - glob:
+            include: ../src/finfry_inbox_etl/transformations/**

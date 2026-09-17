@@ -1,0 +1,22 @@
+[project]
+name = "finfry_inbox"
+version = "0.0.1"
+description = "Receipt-to-ledger ingestion and review pipeline for Finfry"
+requires-python = ">=3.11,<3.15"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.12",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+line-length = 120
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

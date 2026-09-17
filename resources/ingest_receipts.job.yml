@@ -1,0 +1,8 @@
+resources:
+  jobs:
+    ingest_receipts:
+      name: ingest_receipts
+      tasks:
+        - task_key: refresh_bronze_receipts
+          pipeline_task:
+            pipeline_id: ${resources.pipelines.finfry_inbox_etl.id}
