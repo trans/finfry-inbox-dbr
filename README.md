@@ -96,3 +96,7 @@ databricks bundle deploy -t dev --profile <profile>
 
 Continue with the fixture upload, pipeline run, expected outcomes, and notebook
 walkthrough in [DEMO.md](DEMO.md). Upload only synthetic or fully redacted receipts.
+
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
